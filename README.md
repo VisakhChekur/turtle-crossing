@@ -1,5 +1,5 @@
 # Turtle Crossing Game
-The famous game where the turtle crosses the road amid heavy traffic created using the Tkinter module in Python.
+The famous game where the turtle crosses the road amid heavy traffic created using the Turtle module in Python.
 
 # Instructions on How to Run the Game
 
